@@ -1,1 +1,1 @@
-# osho
+# Osho's Book Collection
